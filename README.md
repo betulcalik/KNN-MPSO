@@ -25,7 +25,7 @@
 
 <!-- Turkish article -->
 <p><strong>KNN-MPSO algoritmasına ait Türkçe Makale:
-<a href="https://github.com/betulcalik/FDB-MPSO/blob/main/reports/KNN-MPSO.pdf">KNN-MPSO</a></strong></p>
+<a href="https://github.com/betulcalik/KNN-MPSO/blob/main/reports/KNN-MPSO.pdf">KNN-MPSO</a></strong></p>
 
 <!-- Table Of Contents -->
 
